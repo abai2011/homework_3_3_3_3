@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_contact" type="id" />
+    <item name="motobrike" type="id" />
+    <item name="tvContact" type="id" />
+    <item name="rv_vegetables" type="id" />
+</resources>
